@@ -1,4 +1,4 @@
-# BS5-Landing-oldal
+# BS5 - BSS Landing oldal 
 
 <p>Egy egyszerű landing oldal, mely Bootstrap5 keretrendszerrel készült</p>
 
